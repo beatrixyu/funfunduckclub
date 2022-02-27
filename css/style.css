@@ -222,7 +222,7 @@ section #intro {
   flex-direction: column;
   /* background-image: url("../img/topimg3.gif"); */
   background-repeat: no-repeat;
-  background-color: #5CE1E6;
+  background-color: rgb(91,224,230,0.7);
   letter-spacing: 3px;
 }
 
@@ -236,8 +236,8 @@ section #intro {
 }
 .workhardImg,
 .playhardImg {
-  width: 98%;
-  height: 60vh;
+  width: 90%;
+  height: auto;
   opacity: 0.8;
 }
 .workhard h2 {
