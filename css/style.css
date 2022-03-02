@@ -226,6 +226,17 @@ section #intro {
   letter-spacing: 3px;
 }
 
+.duck3 {
+  position: sticky;
+  bottom: -2rem;
+  align-self: center;
+  height: auto;
+  width: 150px;
+  top: 40%;
+  margin-left: -80px;
+  z-index: 2
+}
+
 .workhard {
   text-transform: uppercase;
   display: flex;
@@ -509,6 +520,14 @@ section #intro {
   letter-spacing: 2px;
   line-height: 120px;
   text-shadow: 5px 1px white;
+}
+
+.openEgg3 {
+  position: absolute;
+  top: 33%;
+  width: 160px;
+  margin-left: -6.5%;
+  z-index: 4;
 }
 
 @media screen and (max-width: 768px) {
