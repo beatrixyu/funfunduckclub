@@ -462,7 +462,7 @@ section #intro {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  height: 140vh;
+  height: 100vh;
   width: 100%;
   margin-top: 10%;
 }
@@ -509,15 +509,24 @@ section #intro {
 
 /* personal statment part */
 #personalstatement {
-  text-align: center;
   position: absolute;
   margin-top: 15%;
   width: 90%;
   color: rgb(92, 91, 91);
   font-size: 15px;
   letter-spacing: 2px;
-  line-height: 120px;
+  line-height: 50px;
   text-shadow: 5px 1px white;
+}
+
+#personalstatement .left{
+  width: 40%;
+  text-align: right;
+}
+
+#personalstatement .right{
+  margin-left: 60%;
+  text-align: left;
 }
 
 .openEgg3 {
