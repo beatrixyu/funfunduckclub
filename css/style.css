@@ -59,7 +59,7 @@ header {
 }
 
 #backlink ul li a:hover {
-  color: #7ce3b1;
+  color: #5CE1E6;
 }
 
 .logo-text,
@@ -85,7 +85,7 @@ nav {
   justify-content: flex;
 }
 #logo-img {
-  width: 100px;
+  width: 180px;
   border-radius: 50%;
   margin-right: 20px;
   margin-top: 40%;
@@ -215,7 +215,7 @@ section #intro {
 /* workhard part */
 
 .profile1 {
-  margin-top: 25%;
+  margin-top: 0;
   width: 100%;
   display: flex;
   align-items: center;
@@ -251,7 +251,7 @@ section #intro {
 }
 .workhard h2 {
   font-size: 40px;
-  /* text-shadow: 3px 3px#FFBDB7; */
+  /* text-shadow: 3px 3px#FACE44; */
   /* font-family: 'Raleway', sans-serif; */
   color: rgb(92, 91, 91);
   font-weight: bolder;
@@ -260,7 +260,7 @@ section #intro {
 
 .workhard h5 {
   font-size: 30px;
-  /* text-shadow: 3px 3px #ffbdb7; */
+  /* text-shadow: 3px 3px #FACE44; */
   line-height: 50px;
   text-align: center;
   /* font-family: 'Raleway', sans-serif; */
@@ -479,7 +479,7 @@ section #intro {
 }
 
 #introLine {
-  background-color: #7ce3b1;
+  background-color: #5CE1E6;
   opacity: 0.5;
   height: 100%;
   width: 10px;
@@ -597,7 +597,7 @@ section #intro {
   margin-left: 10%;
 }
 .skillBar meter::-webkit-meter-optimum-value {
-  background-image: linear-gradient(25deg, #ffbdb7 45%, #7ce3b1 15%);
+  background-image: linear-gradient(25deg, #FACE44 45%, #5CE0E6 15%);
 }
 .skillBar meter {
   width: 80%;
@@ -696,7 +696,7 @@ section #intro {
 }
 #introLineExp1 {
   z-index: 2;
-  background-color: #7ce3b1;
+  background-color: #5CE1E6;
   opacity: 0.5;
   height: 100%;
   width: 10px;
@@ -973,7 +973,7 @@ section #intro {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background: #7ce3b1;
+  background: #5CE1E6;
   font-size: 0px;
   text-shadow: 5px 5px rgb(92, 91, 91);
   text-align: center;
@@ -1034,7 +1034,7 @@ section #intro {
 
 #introLineWasa {
   z-index: 2;
-  background-color: #7ce3b1;
+  background-color: #5CE1E6;
   opacity: 0.5;
   height: 100%;
   width: 10px;
@@ -1200,7 +1200,7 @@ img {
   transition: 0.2s ease;
   border-radius: 0 3px 3px 0;
   user-select: none;
-  background-color: #7ce3b1;
+  background-color: #5CE1E6;
 }
 
 /* Position the "next button" to the right */
@@ -1301,7 +1301,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #ffbdb7;
+  background: #FACE44;
   text-shadow: 5px 5px rgb(92, 91, 91);
   text-align: center;
   letter-spacing: 5px;
@@ -1319,7 +1319,7 @@ img {
   height: 0px;
   border-radius: 30%;
   opacity: 0;
-  /* border: 15px solid #7ce3b1; */
+  /* border: 15px solid #5CE1E6; */
 }
 
 #lineBdDiv {
@@ -1333,7 +1333,7 @@ img {
 
 #introLineBd {
   z-index: 2;
-  background-color: #ffb7b1;
+  background-color: #FACE44;
   opacity: 0.8;
   height: 100%;
   width: 10px;
@@ -1372,7 +1372,7 @@ img {
   height: 0;
   border-left: 100px solid transparent;
   border-right: 100px solid transparent;
-  border-bottom: 200px solid #ffbdb7;
+  border-bottom: 200px solid #FACE44;
   bottom: 0;
   margin: 0 10%;
 }
@@ -1382,7 +1382,7 @@ img {
   height: 0;
   border-left: 150px solid transparent;
   border-right: 150px solid transparent;
-  border-bottom: 300px solid #ffbdb7;
+  border-bottom: 300px solid #FACE44;
   bottom: 0;
   margin-left: 30%;
 }
@@ -1392,7 +1392,7 @@ img {
   height: 0;
   border-left: 120px solid transparent;
   border-right: 120px solid transparent;
-  border-bottom: 240px solid #ffbdb7;
+  border-bottom: 240px solid #FACE44;
   bottom: 0;
   margin: 0 55%;
 }
@@ -1402,7 +1402,7 @@ img {
   height: 0;
   border-left: 220px solid transparent;
   border-right: 220px solid transparent;
-  border-bottom: 440px solid #ffbdb7;
+  border-bottom: 440px solid #FACE44;
   bottom: 0;
   margin: 0 5%;
 }
@@ -1502,21 +1502,21 @@ img {
   .triangle-up {
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
-    border-bottom: 100px solid #ffbdb7;
+    border-bottom: 100px solid #FACE44;
     margin: 0 5%;
   }
 
   .triangle-up1 {
     border-left: 70px solid transparent;
     border-right: 70px solid transparent;
-    border-bottom: 140px solid #ffbdb7;
+    border-bottom: 140px solid #FACE44;
     margin-left: 15%;
   }
 
   .triangle-up2 {
     border-left: 120px solid transparent;
     border-right: 120px solid transparent;
-    border-bottom: 240px solid #ffbdb7;
+    border-bottom: 240px solid #FACE44;
     bottom: 0;
     margin: 0 35%;
   }
@@ -1524,7 +1524,7 @@ img {
   .triangle-up3 {
     border-left: 100px solid transparent;
     border-right: 100px solid transparent;
-    border-bottom: 200px solid #ffbdb7;
+    border-bottom: 200px solid #FACE44;
     margin: 0 5%;
   }
   #amazonDiv {
@@ -1580,21 +1580,21 @@ img {
   .triangle-up {
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
-    border-bottom: 100px solid #ffbdb7;
+    border-bottom: 100px solid #FACE44;
     margin: 0 5%;
   }
 
   .triangle-up1 {
     border-left: 70px solid transparent;
     border-right: 70px solid transparent;
-    border-bottom: 140px solid #ffbdb7;
+    border-bottom: 140px solid #FACE44;
     margin-left: 15%;
   }
 
   .triangle-up2 {
     border-left: 40px solid transparent;
     border-right: 40px solid transparent;
-    border-bottom: 80px solid #ffbdb7;
+    border-bottom: 80px solid #FACE44;
     bottom: 0;
     margin: 0 35%;
   }
@@ -1607,7 +1607,7 @@ img {
   .triangle-up3 {
     border-left: 70px solid transparent;
     border-right: 70px solid transparent;
-    border-bottom: 140px solid #ffbdb7;
+    border-bottom: 140px solid #FACE44;
     margin: 0 5%;
   }
   #amazonDiv {
@@ -1637,7 +1637,7 @@ img {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background: #7ce3b1;
+  background: #5CE1E6;
   text-shadow: 5px 5px rgb(92, 91, 91);
   text-align: center;
   letter-spacing: 5px;
@@ -1696,7 +1696,7 @@ img {
 
 #introLineDci {
   z-index: 2;
-  background-color: #7ce3b1;
+  background-color: #5CE1E6;
   opacity: 0.5;
   height: 100%;
   width: 10px;
@@ -1905,7 +1905,7 @@ img {
   border-radius: 0 3px 3px 0;
   user-select: none;
   -webkit-user-select: none;
-  background-color: #7ce3b1;
+  background-color: #5CE1E6;
 }
 
 /* Position the "next button" to the right */
@@ -1917,7 +1917,7 @@ img {
 /* On hover, add a background color with a little bit see-through */
 .prevdci:hover,
 .nextdci:hover {
-  background-color: #7ce3b1(0, 0, 0, 0.8);
+  background-color: #5CE1E6(0, 0, 0, 0.8);
 }
 
 /* Number text (1/3 etc) */
@@ -1932,7 +1932,7 @@ img {
 /* Container for image text */
 .caption-containerdci {
   text-align: center;
-  background-color: #7ce3b1;
+  background-color: #5CE1E6;
   color: white;
   text-shadow: 3px 3px rgb(92, 91, 91);
   letter-spacing: 3px;
@@ -2013,7 +2013,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #ffbdb7;
+  background: #FACE44;
   text-shadow: 5px 5px rgb(92, 91, 91);
   text-align: center;
   letter-spacing: 5px;
@@ -2031,7 +2031,7 @@ img {
   height: 0px;
   border-radius: 50%;
   opacity: 0;
-  /* border: 15px solid #7ce3b1; */
+  /* border: 15px solid #5CE1E6; */
 }
 
 #lineContactDiv {
@@ -2045,7 +2045,7 @@ img {
 
 #introLineContact {
   z-index: 2;
-  background-color: #ffb7b1;
+  background-color: #FACE44;
   opacity: 0.8;
   height: 100%;
   width: 10px;
@@ -2070,7 +2070,7 @@ img {
   flex-direction: row;
   width: 100%;
   height: 50vh;
-  background-color: #7ce3b1;
+  background-color: #5CE1E6;
   background-repeat: no-repeat;
   background-position: 100% 50%;
   justify-content: center;

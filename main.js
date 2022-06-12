@@ -81,7 +81,7 @@ function scrollFunction() {
     document.querySelector("header").style.transition = "all 1s ease-in-out";
   } else if (window.pageYOffset < 200) {
     document.querySelector(".logo").style.display = "flex";
-    document.getElementById("logo-img").style.width = "100px";
+    document.getElementById("logo-img").style.width = "180px";
     document.getElementById("logo-img").style.marginBottom = "40%";
     document.getElementById("logo-img").style.marginTop = "40%";
     document.querySelector(".logo-text").style.fontSize = "100px";
